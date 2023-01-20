@@ -6,8 +6,9 @@ Neste projeto foi desenvolvido um script, que provisiona um pequeno servidor web
 
 Para isso, tinhamos algumas definições:
 
-- Atualizar o servidor;
-- Instalar o apache2;
-- Instalar o unzip;
-- Baixar a aplicação disponível no endereço https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip no diretório /tmp;
-- Copiar os arquivos da aplicação no diretório padrão do apache;
+1. Atualizar o servidor;
+2. Instalar o apache2;
+3. Instalar o unzip;
+4. Baixar a aplicação disponível no endereço: <br>
+   https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip no diretório /tmp;
+5. Copiar os arquivos da aplicação no diretório padrão do apache;
